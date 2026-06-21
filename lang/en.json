@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "inicio": "Home",
+    "que-es": "What is it?",
+    "como-funciona": "How it works",
+    "requisitos": "Requirements",
+    "caracteristicas": "Features",
+    "mods": "Mods",
+    "version": "Version",
+    "novedades": "News",
+    "quienes-somos": "About us",
+    "mas-info": "More info",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "🏆 SMP Server",
+    "title-1": "SMPT ",
+    "title-2": "10-17",
+    "subtitle": "A world of adventures awaits you",
+    "desc": "Multiplayer survival server for players aged 10 to 17. Build, explore and be part of a unique community.",
+    "btn-explore": "Explore",
+    "btn-join": "Join",
+    "scroll": "Scroll down"
+  },
+  "que-es": {
+    "title": "What is <span>SMPT 10-17</span>?",
+    "card1-title": "Survival Multiplayer",
+    "card1-desc": "A classic SMP server where the community builds, survives and thrives together in a shared world without losing the essence of Minecraft.",
+    "card2-title": "For teens 10-17",
+    "card2-desc": "A safe and moderated space designed especially for teen players. Active, respectful and creative community.",
+    "card3-title": "Unique experience",
+    "card3-desc": "We combine the vanilla experience with custom plugins and mechanics that make every game special and memorable."
+  },
+  "como-funciona": {
+    "title": "How does it <span>work</span>?",
+    "step1-title": "Join our Discord",
+    "step1-desc": "Join our Discord server to stay updated on news, report players and chat with the community.",
+    "step1-btn": "Join Discord",
+    "step2-title": "Enter the IP",
+    "step2-desc": "Copy the server IP, download the specified version and connect from Minecraft.",
+    "step2-ip-label": "Server IP",
+    "step2-version": "Version 1.20.1 Forge",
+    "step3-title": "Download the Mods",
+    "step3-desc": "Use our automatic mod installation tool to set everything up in one click.",
+    "step3-btn": "Download Installer",
+    "step4-title": "Enjoy the experience",
+    "step4-desc": "Participate in events, build with others, explore the world and help grow the community."
+  },
+  "requisitos": {
+    "title": "Requirements",
+    "tech-title": "💻 Technical",
+    "tech-1": "<strong>Minecraft Java Edition</strong> (original)",
+    "tech-2": "<strong>Version:</strong> 1.20.1 Forge",
+    "tech-3": "<strong>RAM:</strong> Minimum 4GB allocated",
+    "tech-4": "<strong>Connection:</strong> Stable, minimum 5 Mbps",
+    "tech-5": "<strong>System:</strong> Windows 10+, macOS or Linux",
+    "entry-title": "📝 Entry requirements",
+    "entry-1": "<strong>Age:</strong> Between 10 and 17 years old",
+    "entry-2": "<strong>Language:</strong> Spanish (main)",
+    "entry-3": "<strong>Microphone</strong> optional but recommended",
+    "entry-4": "<strong>Discord account</strong> for communication",
+    "rules-title": "📖 Basic rules",
+    "rules-1": "Respect all members",
+    "rules-2": "Hacks or cheats are prohibited",
+    "rules-3": "Use common sense and fair play",
+    "rules-4": "<strong>All mods must be installed on your PC</strong>"
+  },
+  "caracteristicas": {
+    "title": "Features"
+  },
+  "mods": {
+    "title": "<span>Included</span> Mods",
+    "notice": "⚠️ All listed mods must be <strong>mandatory installed</strong> on your PC to play on the server.",
+    "info-btn": "More information",
+    "download-btn": "Download Mods (.zip)",
+    "tool-btn": "Download Tool"
+  },
+  "version": {
+    "title": "Version",
+    "changelog-title": "Change history"
+  },
+  "novedades": {
+    "title": "News"
+  },
+  "quienes-somos": {
+    "title": "About <span>us</span>",
+    "story-title": "Our story",
+    "story-desc": "SMPT 10-17 was born from the idea of creating a safe and fun space for teens in Minecraft. We are a team of passionate players seeking to offer a unique experience where creativity and community go hand in hand.",
+    "team-title": "The team",
+    "team-desc": "We have a dedicated staff of moderators and administrators working to keep the server active, safe and entertaining. We are always open to suggestions and new ideas.",
+    "community-title": "The community",
+    "community-desc": "More than a server, we are a community. We organize events, group builds and contests. Every member contributes to make SMPT an incredible place."
+  },
+  "mas-info": {
+    "title": "More <span>information</span>",
+    "links-title": "🔗 Useful links",
+    "link-discord": "Server Discord",
+    "link-form": "Enrollment form: <strong>README.txt</strong> in the installation tool",
+    "link-map": "Dynamic map",
+    "link-rules": "Full rules",
+    "contact-title": "💬 Contact",
+    "contact-staff": "Always available on Discord, no guaranteed response 24/7",
+    "schedule-title": "🕐 Schedule",
+    "schedule-server": "8:00 A.M. - 9:50 P.M.",
+    "schedule-events": "Some weekends",
+    "schedule-maintenance": "Daily during the night (server off time)",
+    "schedule-discord": "Messages and notification chat always available"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "footer": {
+    "copyright": "© 2026 SMPT 10-17. Not affiliated with Mojang AB or Microsoft.",
+    "trademark": "Minecraft is a registered trademark of Mojang AB."
+  },
+  "discord-modal": {
+    "title": "SMPT 10-17 Discord",
+    "subtitle": "Join our community",
+    "feature1-title": "Live chat",
+    "feature1-desc": "Chat with other players in real time, share ideas and strategies.",
+    "feature2-title": "Quick reports",
+    "feature2-desc": "Report players who break the rules directly from Discord.",
+    "feature3-title": "News and updates",
+    "feature3-desc": "Receive notifications about events, updates and maintenance.",
+    "feature4-title": "Exclusive events",
+    "feature4-desc": "Participate in special events only for Discord members.",
+    "invite-label": "Invitation link",
+    "join-btn": "Join now"
+  },
+  "mods-modal": {
+    "title": "Mods Installation",
+    "subtitle": "Follow these steps to play",
+    "feature1-title": "Recommended tool",
+    "feature1-desc": "It is recommended to use the <strong>Minecraft Installation Tool</strong> to set up mods automatically.",
+    "feature2-title": "Manual installation",
+    "feature2-desc": "If you prefer to install manually, download the zip, extract the .jar files and copy them all into the <code>mods</code> folder of your Forge profile.",
+    "feature3-title": "Mandatory requirement",
+    "feature3-desc": "All mods must be installed to connect to the server. Without them you won't be able to enter.",
+    "download-btn": "Download Mods (.zip)"
+  },
+  "back-to-top": "Back to top"
+}

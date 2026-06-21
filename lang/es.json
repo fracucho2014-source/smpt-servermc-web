@@ -1,0 +1,142 @@
+{
+  "nav": {
+    "inicio": "Inicio",
+    "que-es": "¿Qué es?",
+    "como-funciona": "Cómo funciona",
+    "requisitos": "Requisitos",
+    "caracteristicas": "Características",
+    "mods": "Mods",
+    "version": "Versión",
+    "novedades": "Novedades",
+    "quienes-somos": "Quiénes somos",
+    "mas-info": "Más información",
+    "faq": "FAQ"
+  },
+  "hero": {
+    "badge": "🏆 Servidor SMP",
+    "title-1": "SMPT ",
+    "title-2": "10-17",
+    "subtitle": "Un mundo de aventuras te espera",
+    "desc": "Servidor survival multijugador para jugadores de 10 a 17 años. Construye, explora y convive en una comunidad única.",
+    "btn-explore": "Explorar",
+    "btn-join": "Unirse",
+    "scroll": "Desplázate"
+  },
+  "que-es": {
+    "title": "¿Qué es <span>SMPT 10-17</span>?",
+    "card1-title": "Survival Multiplayer",
+    "card1-desc": "Un servidor SMP clásico donde la comunidad construye, sobrevive y prospera junta en un mundo compartido sin perder la esencia de Minecraft.",
+    "card2-title": "Para jóvenes 10-17",
+    "card2-desc": "Un espacio seguro y moderado diseñado especialmente para jugadores adolescentes. Comunidad activa, respetuosa y llena de creatividad.",
+    "card3-title": "Experiencia única",
+    "card3-desc": "Combinamos la experiencia vanilla con plugins y mecánicas personalizadas que hacen de cada partida algo especial y memorable."
+  },
+  "como-funciona": {
+    "title": "¿Cómo <span>funciona</span>?",
+    "step1-title": "Únete al Discord",
+    "step1-desc": "Entra a nuestro servidor de Discord para estar al tanto de novedades, denunciar jugadores y chatear con la comunidad.",
+    "step1-btn": "Unirse al Discord",
+    "step2-title": "Ingresa la IP",
+    "step2-desc": "Copia la IP del servidor, descarga la versión indicada y conéctate desde Minecraft.",
+    "step2-ip-label": "IP del servidor",
+    "step2-version": "Versión 1.20.1 Forge",
+    "step3-title": "Descarga los Mods",
+    "step3-desc": "Usa nuestra herramienta de instalación automática de mods para configurar todo en un clic.",
+    "step3-btn": "Descargar Instalador",
+    "step4-title": "Disfruta la experiencia",
+    "step4-desc": "Participa en eventos, construye con otros, explora el mundo y contribuye a hacer grande la comunidad."
+  },
+  "requisitos": {
+    "title": "Requisitos",
+    "tech-title": "💻 Técnicos",
+    "tech-1": "<strong>Minecraft Java Edition</strong> (original)",
+    "tech-2": "<strong>Versión:</strong> 1.20.1 Forge",
+    "tech-3": "<strong>RAM:</strong> Mínimo 4GB asignados",
+    "tech-4": "<strong>Conexión:</strong> Estable, mínimo 5 Mbps",
+    "tech-5": "<strong>Sistema:</strong> Windows 10+, macOS o Linux",
+    "entry-title": "📝 De ingreso",
+    "entry-1": "<strong>Edad:</strong> Entre 10 y 17 años",
+    "entry-2": "<strong>Idioma:</strong> Español (principal)",
+    "entry-3": "<strong>Micrófono</strong> opcional pero recomendado",
+    "entry-4": "<strong>Cuenta de Discord</strong> para comunicación",
+    "rules-title": "📖 Normas básicas",
+    "rules-1": "Respeto hacia todos los miembros",
+    "rules-2": "Prohibido el uso de hacks o cheats",
+    "rules-3": "Uso de sentido común y fair play",
+    "rules-4": "<strong>Todos los mods deben estar instalados obligatoriamente en tu PC</strong>"
+  },
+  "caracteristicas": {
+    "title": "Características"
+  },
+  "mods": {
+    "title": "Mods <span>incluidos</span>",
+    "notice": "⚠️ Todos los mods listados deben estar <strong>obligatoriamente instalados</strong> en tu PC para poder jugar en el servidor.",
+    "info-btn": "Más información",
+    "download-btn": "Descargar Mods (.zip)",
+    "tool-btn": "Descargar Herramienta"
+  },
+  "version": {
+    "title": "Versión",
+    "changelog-title": "Historial de cambios"
+  },
+  "novedades": {
+    "title": "Novedades"
+  },
+  "quienes-somos": {
+    "title": "Quiénes <span>somos</span>",
+    "story-title": "Nuestra historia",
+    "story-desc": "SMPT 10-17 nació de la idea de crear un espacio seguro y divertido para jóvenes dentro de Minecraft. Somos un equipo de jugadores apasionados que buscamos ofrecer una experiencia única donde la creatividad y la comunidad van de la mano.",
+    "team-title": "El equipo",
+    "team-desc": "Contamos con un staff dedicado de moderadores y administradores que trabajan para mantener el servidor activo, seguro y entretenido. Siempre estamos abiertos a sugerencias y nuevas ideas.",
+    "community-title": "La comunidad",
+    "community-desc": "Más que un servidor, somos una comunidad. Organizamos eventos, construcciones grupales y concursos. Cada miembro aporta su granito de arena para hacer de SMPT un lugar increíble."
+  },
+  "mas-info": {
+    "title": "Más <span>información</span>",
+    "links-title": "🔗 Enlaces útiles",
+    "link-discord": "Discord del servidor",
+    "link-form": "Formulario de ingreso: <strong>README.txt</strong> en la herramienta de instalación",
+    "link-map": "Mapa dinámico",
+    "link-rules": "Reglas completas",
+    "contact-title": "💬 Contacto",
+    "contact-staff": "Siempre disponible en Discord, sin respuesta garantizada 24/7",
+    "schedule-title": "🕐 Horario",
+    "schedule-server": "8:00 A.M. - 9:50 P.M.",
+    "schedule-events": "Algunos fines de semana",
+    "schedule-maintenance": "Diario durante la noche (horario de apagado)",
+    "schedule-discord": "Mensajes y chat de avisos siempre disponibles"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "footer": {
+    "copyright": "© 2026 SMPT 10-17. No afiliado con Mojang AB o Microsoft.",
+    "trademark": "Minecraft es una marca registrada de Mojang AB."
+  },
+  "discord-modal": {
+    "title": "SMPT 10-17 Discord",
+    "subtitle": "Únete a nuestra comunidad",
+    "feature1-title": "Chat en vivo",
+    "feature1-desc": "Chatea con otros jugadores en tiempo real, comparte ideas y estrategias.",
+    "feature2-title": "Denuncias rápidas",
+    "feature2-desc": "Reporta jugadores que incumplan las reglas directamente desde el Discord.",
+    "feature3-title": "Novedades y actualizaciones",
+    "feature3-desc": "Recibe notificaciones de eventos, actualizaciones y mantenimientos.",
+    "feature4-title": "Eventos exclusivos",
+    "feature4-desc": "Participa en eventos especiales solo para miembros del Discord.",
+    "invite-label": "Link de invitación",
+    "join-btn": "Unirse ahora"
+  },
+  "mods-modal": {
+    "title": "Instalación de Mods",
+    "subtitle": "Sigue estos pasos para jugar",
+    "feature1-title": "Herramienta recomendada",
+    "feature1-desc": "Se recomienda usar la <strong>Herramienta de instalación de Minecraft</strong> para configurar los mods automáticamente.",
+    "feature2-title": "Instalación manual",
+    "feature2-desc": "Si prefieres instalar manualmente, descarga el zip, extrae los archivos .jar y copia todos dentro de la carpeta <code>mods</code> de tu perfil Forge.",
+    "feature3-title": "Requisito obligatorio",
+    "feature3-desc": "Todos los mods deben estar instalados para poder conectarte al servidor. Sin ellos no podrás entrar.",
+    "download-btn": "Descargar Mods (.zip)"
+  },
+  "back-to-top": "Volver arriba"
+}
