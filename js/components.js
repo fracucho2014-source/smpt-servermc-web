@@ -34,22 +34,36 @@ const AppData = {
       { icon: '&#128176;', title: 'AH', file: 'ah-1.0.0.jar', desc: 'Sistema de subastas y compras de todo el servidor entre todos los jugadores.' },
       { icon: '&#127978;', title: 'Better Home New', file: 'betterhomeNew-1.20.1.jar', desc: 'Mejoras en el sistema de hogares y teletransportacion.' },
       { icon: '&#128176;', title: 'Economy', file: 'economy-1.0.1.jar', desc: 'Sistema economico con monedas y tienda entre jugadores.' },
+      { icon: '&#128737;', title: 'FTB Ranks', file: 'ftb-ranks-forge-2001.1.4.jar', desc: 'Sistema de rangos por permisos para gestionar acceso y beneficios de jugadores.' },
       { icon: '&#128663;', title: 'Immersive Vehicles', file: 'Immersive Vehicles-1.20.1-23.0.0.jar', desc: 'Vehiculos realistas para explorar el mundo.' },
+      { icon: '&#127748;', title: 'Just Enough Guns', file: 'JustEnoughGuns-0.13.2-1.20.1.jar', desc: 'Agrega armas de fuego con progresion, customizacion y eventos de asaltos.' },
+      { icon: '&#9889;', title: 'Krypton Reforged', file: 'KryptonReforged-0.2.3.jar', desc: 'Optimiza el rendimiento de red del servidor mejorando el envio de paquetes.' },
       { icon: '&#128737;', title: 'LuckPerms', file: 'LuckPerms-Forge-5.4.102.jar', desc: 'Sistema de permisos y rangos del servidor.' },
+      { icon: '&#128295;', title: 'ModernFix', file: 'modernfix-forge-5.27.40+mc1.20.1.jar', desc: 'Optimiza el rendimiento, reduce el uso de memoria y corrige errores del cliente.' },
       { icon: '&#9992;', title: 'MTS Official Pack', file: 'MTS Official Pack-1.20.1-V29.jar', desc: 'Pack oficial de transporte y vehiculos MTS.' },
       { icon: '&#128274;', title: 'OAmP', file: 'OAmP-1.20.1-V3.jar', desc: '' },
       { icon: '&#128640;', title: 'RTP', file: 'rtp-2.0.0.jar', desc: 'Teletransportacion aleatoria a ubicaciones del mundo.' },
+      { icon: '&#9881;', title: 'ServerCore', file: 'servercore-forge-1.5.2+1.20.1.jar', desc: 'Optimizaciones del servidor para gestion de chunks, entidades y rendimiento general.' },
+      { icon: '&#128228;', title: 'TPA', file: 'tpa-1.7.2.jar', desc: 'Sistema de solicitudes de teletransportacion entre jugadores con /tpa y /tpahere.' },
+      { icon: '&#127759;', title: 'WorldEdit', file: 'worldedit-mod-7.2.15.jar', desc: 'Herramienta de edicion del mundo para construccion, terrenos y proyectos creativos.' },
       { icon: '&#127759;', title: 'Yawp', file: 'yawp-1.20.1-forge-0.6.0-beta1.jar', desc: 'Yet Another World Protector - protector de areas del mundo.' },
     ],
     en: [
       { icon: '&#128176;', title: 'AH', file: 'ah-1.0.0.jar', desc: 'Auction and purchase system for the entire server between all players.' },
       { icon: '&#127978;', title: 'Better Home New', file: 'betterhomeNew-1.20.1.jar', desc: 'Improvements to the home and teleportation system.' },
       { icon: '&#128176;', title: 'Economy', file: 'economy-1.0.1.jar', desc: 'Economic system with coins and player-to-player shop.' },
+      { icon: '&#128737;', title: 'FTB Ranks', file: 'ftb-ranks-forge-2001.1.4.jar', desc: 'Permission-based rank system to manage player access and benefits.' },
       { icon: '&#128663;', title: 'Immersive Vehicles', file: 'Immersive Vehicles-1.20.1-23.0.0.jar', desc: 'Realistic vehicles to explore the world.' },
+      { icon: '&#127748;', title: 'Just Enough Guns', file: 'JustEnoughGuns-0.13.2-1.20.1.jar', desc: 'Adds firearms with survival progression, customization and raid events.' },
+      { icon: '&#9889;', title: 'Krypton Reforged', file: 'KryptonReforged-0.2.3.jar', desc: 'Optimizes server network performance by improving packet handling.' },
       { icon: '&#128737;', title: 'LuckPerms', file: 'LuckPerms-Forge-5.4.102.jar', desc: 'Server permissions and rank system.' },
+      { icon: '&#128295;', title: 'ModernFix', file: 'modernfix-forge-5.27.40+mc1.20.1.jar', desc: 'Improves performance, reduces memory usage and fixes client bugs.' },
       { icon: '&#9992;', title: 'MTS Official Pack', file: 'MTS Official Pack-1.20.1-V29.jar', desc: 'Official MTS transport and vehicles pack.' },
       { icon: '&#128274;', title: 'OAmP', file: 'OAmP-1.20.1-V3.jar', desc: '' },
       { icon: '&#128640;', title: 'RTP', file: 'rtp-2.0.0.jar', desc: 'Random teleportation to world locations.' },
+      { icon: '&#9881;', title: 'ServerCore', file: 'servercore-forge-1.5.2+1.20.1.jar', desc: 'Server optimizations for chunk loading, entity management and general performance.' },
+      { icon: '&#128228;', title: 'TPA', file: 'tpa-1.7.2.jar', desc: 'Teleport request system between players using /tpa and /tpahere.' },
+      { icon: '&#127759;', title: 'WorldEdit', file: 'worldedit-mod-7.2.15.jar', desc: 'In-game world editing tool for building, terraforming and creative projects.' },
       { icon: '&#127759;', title: 'Yawp', file: 'yawp-1.20.1-forge-0.6.0-beta1.jar', desc: 'Yet Another World Protector - world area protector.' },
     ]
   },
@@ -100,7 +114,7 @@ const AppData = {
       },
       {
         q: 'El servidor tiene mods?',
-        a: 'Si, contamos con entre 9 y 11 mods instalados. No utilizamos plugins, solo mods compatibles con Forge. La lista completa esta disponible en la seccion de Mods.'
+        a: 'Si, contamos con 16 mods instalados. No utilizamos plugins, solo mods compatibles con Forge. La lista completa esta disponible en la seccion de Mods.'
       },
       {
         q: 'Hay restriccion de edad?',
@@ -134,7 +148,7 @@ const AppData = {
       },
       {
         q: 'Does the server have mods?',
-        a: 'Yes, we have between 9 and 11 mods installed. We do not use plugins, only Forge-compatible mods. The full list is available in the Mods section.'
+        a: 'Yes, we have 16 mods installed. We do not use plugins, only Forge-compatible mods. The full list is available in the Mods section.'
       },
       {
         q: 'Is there an age restriction?',
