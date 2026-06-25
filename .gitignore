@@ -1,3 +1,10 @@
+# Large files (hosted externally or local-only)
+ModInstaller-Setup.rar
 ModInstaller-Setup.zip
-mods/SMPT-10-17-Mods.zip
-mods/SMPT-10-17-Mods/
+Mods.rar
+
+# Old mods folder
+mods/
+
+# Loose mod jars
+*.jar
