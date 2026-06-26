@@ -41,7 +41,7 @@
     "step2-ip-label": "Server IP",
     "step2-version": "Version 1.20.1 Forge",
     "step3-title": "Download the Mods",
-    "step3-desc": "Download the installer, run it and the program will automatically configure all mods and the Forge profile in your launcher.",
+    "step3-desc": "Download the file, open it and it will install everything automatically. You don't have to do anything else.",
     "step3-btn": "Download Installer",
     "step4-title": "Enjoy the experience",
     "step4-desc": "Participate in events, build with others, explore the world and help grow the community."
@@ -130,14 +130,14 @@
   "mods-modal": {
     "title": "Mods Installation",
     "subtitle": "Follow these steps to play",
-    "step1-title": "1. Download the installer",
-    "step1-desc": "Click <strong>Download Installer</strong> to get the <code>ModInstaller-Setup.exe</code> file.",
-    "step2-title": "2. Run the program",
-    "step2-desc": "Open the downloaded file and the installer will detect your <code>.minecraft</code> folder automatically. Just follow the on-screen steps.",
-    "step3-title": "3. Wait for it to finish",
-    "step3-desc": "The installer will copy all mods and create the <strong>SMPT 10-17</strong> profile in your launcher automatically.",
-    "step4-title": "4. Open Minecraft and play",
-    "step4-desc": "Select the <strong>SMPT 10-17</strong> profile in your launcher, enter the server IP and the mods will load automatically. Enjoy!",
+    "step1-title": "Step 1: Download the file",
+    "step1-desc": "Click the <strong>\"Download Installer\"</strong> button below. A file called <strong>ModInstaller-Setup.exe</strong> will download. Don't delete or move your Minecraft folder.",
+    "step2-title": "Step 2: Open the file",
+    "step2-desc": "Go to your Downloads folder, find <strong>ModInstaller-Setup.exe</strong> and double-click it. If Windows asks \"Do you want to allow this app to make changes\", click <strong>\"Yes\"</strong>. You don't need to install anything else, it just runs by itself.",
+    "step3-title": "Step 3: Wait while it installs",
+    "step3-desc": "The program will copy all the mods into your Minecraft automatically. Just wait until you see a message that says <strong>\"Installation complete\"</strong>. Don't turn off or close the window while it's installing.",
+    "step4-title": "Step 4: Open Minecraft and play",
+    "step4-desc": "Open your Minecraft launcher and in the profile list (bottom left) select <strong>\"SMPT 10-17\"</strong>. Click play, wait for it to load, and enter the server IP. The mods are ready. <strong>Done, have fun!</strong>",
     "install-btn": "Download Installer"
   },
   "back-to-top": "Back to top"
