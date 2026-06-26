@@ -41,7 +41,7 @@
     "step2-ip-label": "IP del servidor",
     "step2-version": "Versión 1.20.1 Forge",
     "step3-title": "Descarga los Mods",
-    "step3-desc": "Usa nuestra herramienta de instalación automática de mods para configurar todo en un clic.",
+    "step3-desc": "Descarga el instalador, ejecutalo y el programa configurara automaticamente todos los mods y el perfil de Forge en tu launcher.",
     "step3-btn": "Descargar Instalador",
     "step4-title": "Disfruta la experiencia",
     "step4-desc": "Participa en eventos, construye con otros, explora el mundo y contribuye a hacer grande la comunidad."
@@ -130,13 +130,15 @@
   "mods-modal": {
     "title": "Instalación de Mods",
     "subtitle": "Sigue estos pasos para jugar",
-    "feature1-title": "Herramienta recomendada",
-    "feature1-desc": "Se recomienda usar la <strong>Herramienta de instalación de Minecraft</strong> para configurar los mods automáticamente.",
-    "feature2-title": "Instalación manual",
-    "feature2-desc": "Si prefieres instalar manualmente, descarga el zip, extrae los archivos .jar y copia todos dentro de la carpeta <code>mods</code> de tu perfil Forge.",
-    "feature3-title": "Requisito obligatorio",
-    "feature3-desc": "Todos los mods deben estar instalados para poder conectarte al servidor. Sin ellos no podrás entrar.",
-    "download-btn": "Descargar Mods (.zip)"
+    "step1-title": "1. Descarga el instalador",
+    "step1-desc": "Haz clic en <strong>Descargar Instalador</strong> para obtener el archivo <code>ModInstaller-Setup.exe</code>.",
+    "step2-title": "2. Ejecuta el programa",
+    "step2-desc": "Abre el archivo descargado y el instalador detectara tu carpeta <code>.minecraft</code> automaticamente. Solo sigue los pasos en pantalla.",
+    "step3-title": "3. Espera a que termine",
+    "step3-desc": "El instalador copiara todos los mods y creara el perfil <strong>SMPT 10-17</strong> en tu launcher automaticamente.",
+    "step4-title": "4. Abre Minecraft y juega",
+    "step4-desc": "Selecciona el perfil <strong>SMPT 10-17</strong> en tu launcher, ingresa la IP del servidor y los mods se cargaran solos. A disfrutar!",
+    "install-btn": "Descargar Instalador"
   },
   "back-to-top": "Volver arriba"
 }

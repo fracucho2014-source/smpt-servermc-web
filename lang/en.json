@@ -41,7 +41,7 @@
     "step2-ip-label": "Server IP",
     "step2-version": "Version 1.20.1 Forge",
     "step3-title": "Download the Mods",
-    "step3-desc": "Use our automatic mod installation tool to set everything up in one click.",
+    "step3-desc": "Download the installer, run it and the program will automatically configure all mods and the Forge profile in your launcher.",
     "step3-btn": "Download Installer",
     "step4-title": "Enjoy the experience",
     "step4-desc": "Participate in events, build with others, explore the world and help grow the community."
@@ -130,13 +130,15 @@
   "mods-modal": {
     "title": "Mods Installation",
     "subtitle": "Follow these steps to play",
-    "feature1-title": "Recommended tool",
-    "feature1-desc": "It is recommended to use the <strong>Minecraft Installation Tool</strong> to set up mods automatically.",
-    "feature2-title": "Manual installation",
-    "feature2-desc": "If you prefer to install manually, download the zip, extract the .jar files and copy them all into the <code>mods</code> folder of your Forge profile.",
-    "feature3-title": "Mandatory requirement",
-    "feature3-desc": "All mods must be installed to connect to the server. Without them you won't be able to enter.",
-    "download-btn": "Download Mods (.zip)"
+    "step1-title": "1. Download the installer",
+    "step1-desc": "Click <strong>Download Installer</strong> to get the <code>ModInstaller-Setup.exe</code> file.",
+    "step2-title": "2. Run the program",
+    "step2-desc": "Open the downloaded file and the installer will detect your <code>.minecraft</code> folder automatically. Just follow the on-screen steps.",
+    "step3-title": "3. Wait for it to finish",
+    "step3-desc": "The installer will copy all mods and create the <strong>SMPT 10-17</strong> profile in your launcher automatically.",
+    "step4-title": "4. Open Minecraft and play",
+    "step4-desc": "Select the <strong>SMPT 10-17</strong> profile in your launcher, enter the server IP and the mods will load automatically. Enjoy!",
+    "install-btn": "Download Installer"
   },
   "back-to-top": "Back to top"
 }

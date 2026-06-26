@@ -134,7 +134,7 @@
           <div class="step fade-in">
             <div class="step-num">3</div>
             <h3 data-i18n="como-funciona.step3-title">Descarga los Mods</h3>
-            <p data-i18n="como-funciona.step3-desc">Usa nuestra herramienta de instalación automática de mods para configurar todo en un clic.</p>
+            <p data-i18n="como-funciona.step3-desc">Descarga el instalador, ejecutalo y el programa configurara automaticamente todos los mods y el perfil de Forge en tu launcher.</p>
             <a href="https://www.dropbox.com/scl/fi/kpp0fwrcet5y2rtdp3sbh/ModInstaller-Setup.rar?rlkey=z8kan0u54ica0fcbzhuve8ans&st=2ub4dh0p&dl=1" class="step-link step-link--accent" download>
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
               <span data-i18n="como-funciona.step3-btn">Descargar Instalador</span>
@@ -392,32 +392,38 @@
       </div>
       <div class="modal-body">
         <div class="modal-features">
-          <button class="modal-feature modal-feature--link" id="goToComoFunciona">
-            <span class="modal-feature-icon">&#128736;</span>
-            <div>
-              <h4 data-i18n="mods-modal.feature1-title">Herramienta recomendada</h4>
-              <p data-i18n="mods-modal.feature1-desc">Se recomienda usar la <strong>Herramienta de instalación de Minecraft</strong> para configurar los mods automáticamente.</p>
-            </div>
-            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="feature-arrow"><polyline points="9 18 15 12 9 6"/></svg>
-          </button>
           <div class="modal-feature">
-            <span class="modal-feature-icon">&#128193;</span>
+            <span class="modal-feature-icon">&#128229;</span>
             <div>
-              <h4 data-i18n="mods-modal.feature2-title">Instalación manual</h4>
-              <p data-i18n="mods-modal.feature2-desc">Si prefieres instalar manualmente, descarga el zip, extrae los archivos .jar y copia todos dentro de la carpeta <code>mods</code> de tu perfil Forge.</p>
+              <h4 data-i18n="mods-modal.step1-title">1. Descarga el instalador</h4>
+              <p data-i18n="mods-modal.step1-desc">Haz clic en <strong>Descargar Instalador</strong> para obtener el archivo <code>ModInstaller-Setup.exe</code>.</p>
             </div>
           </div>
           <div class="modal-feature">
-            <span class="modal-feature-icon">&#9888;</span>
+            <span class="modal-feature-icon">&#128187;</span>
             <div>
-              <h4 data-i18n="mods-modal.feature3-title">Requisito obligatorio</h4>
-              <p data-i18n="mods-modal.feature3-desc">Todos los mods deben estar instalados para poder conectarte al servidor. Sin ellos no podrás entrar.</p>
+              <h4 data-i18n="mods-modal.step2-title">2. Ejecuta el programa</h4>
+              <p data-i18n="mods-modal.step2-desc">Abre el archivo descargado y el instalador detectará tu carpeta <code>.minecraft</code> automáticamente. Solo sigue los pasos en pantalla.</p>
+            </div>
+          </div>
+          <div class="modal-feature">
+            <span class="modal-feature-icon">&#9203;</span>
+            <div>
+              <h4 data-i18n="mods-modal.step3-title">3. Espera a que termine</h4>
+              <p data-i18n="mods-modal.step3-desc">El instalador copiará todos los mods y creará el perfil <strong>SMPT 10-17</strong> en tu launcher automáticamente.</p>
+            </div>
+          </div>
+          <div class="modal-feature">
+            <span class="modal-feature-icon">&#127918;</span>
+            <div>
+              <h4 data-i18n="mods-modal.step4-title">4. Abre Minecraft y juega</h4>
+              <p data-i18n="mods-modal.step4-desc">Selecciona el perfil <strong>SMPT 10-17</strong> en tu launcher, ingresa la IP del servidor y los mods se cargarán solos. ¡A disfrutar!</p>
             </div>
           </div>
         </div>
-        <a href="https://www.dropbox.com/scl/fi/m6qhpcpyd5vkzd6ymolgj/Mods.rar?rlkey=t9w9ee3oq2wpy6hf9951m0pqd&st=20udl665&dl=1" class="modal-btn" download>
+        <a href="https://www.dropbox.com/scl/fi/kpp0fwrcet5y2rtdp3sbh/ModInstaller-Setup.rar?rlkey=z8kan0u54ica0fcbzhuve8ans&st=2ub4dh0p&dl=1" class="modal-btn" download>
           <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
-          <span data-i18n="mods-modal.download-btn">Descargar Mods (.zip)</span>
+          <span data-i18n="mods-modal.install-btn">Descargar Instalador</span>
         </a>
       </div>
     </div>
