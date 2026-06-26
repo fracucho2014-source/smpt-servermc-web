@@ -41,7 +41,7 @@
     "step2-ip-label": "IP del servidor",
     "step2-version": "Versión 1.20.1 Forge",
     "step3-title": "Descarga los Mods",
-    "step3-desc": "Descarga el archivo, abrelo y el solo va a instalar todo automaticamente. No tienes que hacer nada mas.",
+    "step3-desc": "Descarga el programa, abrelo, haz clic en <strong>Instalar Mods</strong> y el solo hace todo. No tienes que hacer nada mas.",
     "step3-btn": "Descargar Instalador",
     "step4-title": "Disfruta la experiencia",
     "step4-desc": "Participa en eventos, construye con otros, explora el mundo y contribuye a hacer grande la comunidad."
@@ -130,14 +130,14 @@
   "mods-modal": {
     "title": "Instalación de Mods",
     "subtitle": "Sigue estos pasos para jugar",
-    "step1-title": "Paso 1: Descarga el archivo",
-    "step1-desc": "Haz clic en el boton <strong>\"Descargar Instalador\"</strong> que esta abajo. Se descargara un archivo llamado <strong>ModInstaller-Setup.exe</strong>. No borres ni muevas la carpeta de Minecraft.",
-    "step2-title": "Paso 2: Abre el archivo",
-    "step2-desc": "Ve a tu carpeta de Descargas, busca <strong>ModInstaller-Setup.exe</strong> y haz doble clic para abrirlo. Si Windows te pregunta \"Deseas permitir que esta aplicacion haga cambios\", haz clic en <strong>\"Si\"</strong>. No necesita instalar nada mas, solo se abre solo.",
-    "step3-title": "Paso 3: Espera mientras se instala",
-    "step3-desc": "El programa va a copiar los mods dentro de tu Minecraft solito. Solo espera a que aparezca un mensaje que diga <strong>\"Instalacion completada\"</strong>. No apagues ni cierres la ventana mientras se instala.",
-    "step4-title": "Paso 4: Abre Minecraft y juega",
-    "step4-desc": "Abre el launcher de Minecraft y en la lista de perfiles (abajo a la izquierda) selecciona <strong>\"SMPT 10-17\"</strong>. Dale a jugar, espera que cargue y pon la IP del servidor. Los mods ya estan listos. <strong>Listo, a disfrutar!</strong>",
+    "step1-title": "Descarga el archivo",
+    "step1-desc": "Haz clic en el boton <strong>Descargar Instalador</strong> que esta abajo. Se descargara un archivo llamado <strong>ModInstaller-Setup.exe</strong>. No necesitas descargar nada mas, los mods ya vienen adentro del programa.",
+    "step2-title": "Abre el programa",
+    "step2-desc": "Ve a tu carpeta de Descargas y haz doble clic en <strong>ModInstaller-Setup.exe</strong>. Si Windows te pregunta si quieres permitir cambios, haz clic en <strong>Si</strong>. Se abrira una ventana con un boton que dice <strong>Instalar Mods</strong>. Haz clic ahi. El programa sabe exactamente donde esta tu Minecraft, no tienes que buscar ninguna carpeta.",
+    "step3-title": "Espera mientras se instala",
+    "step3-desc": "El programa comenzara a copiar los mods dentro de tu Minecraft automaticamente. Veras una barra que se va llenando. Cuando termine aparecera un mensaje que dice <strong>Instalacion completada</strong> y la ventana se cerrara sola. No apagues la computadora ni cierres el programa mientras se esta instalando.",
+    "step4-title": "Abre Minecraft y juega",
+    "step4-desc": "Abre tu launcher de Minecraft. En la lista de perfiles, que normalmente esta abajo a la izquierda, selecciona <strong>SMPT 10-17</strong>. Dale al boton de jugar, espera a que cargue el juego y cuando estes dentro ingresa la IP del servidor. Los mods ya estan instalados y listos para funcionar. A disfrutar!",
     "install-btn": "Descargar Instalador"
   },
   "back-to-top": "Volver arriba"
